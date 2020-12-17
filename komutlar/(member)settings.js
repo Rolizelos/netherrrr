@@ -24,7 +24,7 @@ exports.conf = {
 };
 
 exports.help = {
-    name: 'dsfdsfdsaaaaaaaaaaaafg',
+    name: 'settings',
       category: 'dgdfgdaaaaaaaaaaaaaaaafdfsg',
       description: 'dfaaaaaaaaaaaaaaaaaaagddfsfgfg',
 };

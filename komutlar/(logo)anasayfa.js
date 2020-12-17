@@ -70,7 +70,7 @@ permLevel: 0
 };
  
 exports.help = {
-name: 'yardımdsf',
+name: 'logos',
 description: 'Yardffffffffffım Listesini Gösterir',
 usage: 'yardffffffffffffım'
 };

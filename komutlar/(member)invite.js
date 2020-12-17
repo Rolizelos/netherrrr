@@ -12,7 +12,7 @@ exports.run = (client, message, args) => {
         .setAuthor(`${client.user.username} - Invite `, client.user.avatarURL)
         
     
-        .setDescription(`[**__click me__**](https://discord.com/api/oauth2/authorize?client_id=733720326646792263&permissions=8&scope=bot) and invite bot :)`)
+        .setDescription(`[**__click me__**](https://discord.com/api/oauth2/authorize?client_id=788864616507506748&permissions=8&scope=bot) and invite bot :)`)
 
         .setFooter(`${message.author.username} İnvite the bot!`, message.author.avatarURL)
       .setColor(`#ff0000`)

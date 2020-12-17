@@ -35,7 +35,7 @@ exports.conf = {
 };
 
 exports.help = {
-  name: 'yard2ım',
+  name: 'fun',
   description: 'Tüm2 komutları gösterir.',
   usage: 'ya2rdım'
 };
