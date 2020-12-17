@@ -70,7 +70,7 @@ exports.conf = {
 
 exports.help = {
 
-  name: 'gif-arsda',
+  name: 'gif-anime',
 
   description: "pythonic-v12",
 

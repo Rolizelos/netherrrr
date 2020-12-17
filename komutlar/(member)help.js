@@ -42,7 +42,7 @@ exports.conf = {
 };
 
 exports.help = {
-  name: "helpssdsfdsf",
+  name: "help",
   category: "helpsasdf",
   description: "helpdsf"
 };

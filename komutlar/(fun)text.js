@@ -35,7 +35,7 @@ exports.conf = {
 };
 
 exports.help = {
-    name: 'dsfdsfg',
+    name: 'texts',
       category: 'dgdfgdfg',
       description: 'dfgdfgfg',
 };
