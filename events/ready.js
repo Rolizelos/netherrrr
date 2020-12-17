@@ -15,10 +15,10 @@ module.exports = client => {
       client.user.username
     } ismi ile giriş yapıldı!`
   );
-  client.user.setStatus("dnd");
+  client.user.setStatus("online")
   var oyun = [
        "⚠️ Nether | V12!",
-       "⚠️ &help for help",
+       "⚠️ nhelp for help",
        "⚠️ NETHER NEW VERSION!",
        "⚠️ Thanks for they!",
        "⚠️ Nether Verified"
