@@ -69,7 +69,7 @@ permLevel: 0
 };
  
 exports.help = {
-name: 'yardımdssssssssf',
+name: 'gifs',
 description: 'Yardffffffffffım Listesini Gösterisssssssssssssr',
 usage: 'yardffffssssssssssffffffffım'
 };

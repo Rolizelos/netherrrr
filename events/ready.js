@@ -18,7 +18,7 @@ module.exports = client => {
   client.user.setStatus("online")
   var oyun = [
        "⚠️ Nether | V12!",
-       "⚠️ nhelp for help",
+       "⚠️ n!help for help",
        "⚠️ NETHER NEW VERSION!",
        "⚠️ Thanks for they!",
        "⚠️ Nether Verified"
